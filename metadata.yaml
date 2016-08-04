@@ -1,0 +1,38 @@
+_repo: The-Unspeakable-Perk_5009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Samuel Hopkins
+    alias: Fabian, Warner
+    birthdate: 1871
+    deathdate: 1958
+    gutenberg_agent_id: '1635'
+    url: http://www.gutenberg.org/2009/agents/1635
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
+description: The unspeakable perk strode down his path, broke into a trot, and held
+  to it until he reached his house. But Miss Polly, departing in her own direction,
+  stopped dead after ten minutes' going. It had struck her forcefully that she had
+  forgotten the matter of the expense of the message. How could she reach him? She
+  remembered the cliff above the rock, and the signal. If a signal was valid in one
+  direction, it ought to work equally well in the other. She had her automatic with
+  her. Retracing her steps, she ascended the cliff, a rugged climb. Across the deep-fringed
+  chasm she could plainly see the porch of the quinta with the little clearing at
+  the side, dim in the clouded light. Drawing the revolver, she fired three shots.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disguise -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Heiresses -- Fiction'
+- !lcsh 'Entomologists -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Caribbean Area -- Fiction'
+- GITenberg
+title: The Unspeakable Perk
+url: http://www.gutenberg.org/ebooks/5009
