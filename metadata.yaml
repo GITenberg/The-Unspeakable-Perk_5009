@@ -1,5 +1,8 @@
 _repo: The-Unspeakable-Perk_5009
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Samuel Hopkins
@@ -18,6 +21,8 @@ description: The unspeakable perk strode down his path, broke into a trot, and h
   her. Retracing her steps, she ascended the cliff, a rugged climb. Across the deep-fringed
   chasm she could plainly see the porch of the quinta with the little clearing at
   the side, dim in the clouded light. Drawing the revolver, she fired three shots.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5009#The-Unspeakable-Perk
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
